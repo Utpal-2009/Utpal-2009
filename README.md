@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 - 💻 Languages: HTML, CSS, JavaScript, Python
 - ⚙️ Tools: Git, GitHub, Android Studio, Firebase
 - 🌐 Web: Beginner Full Stack Developer
