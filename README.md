@@ -1,13 +1,49 @@
-- 👋 Hi, I’m @Utpal-2009
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning information technology...
-- 💞️ I’m looking to collaborate on github ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📧 u.a.tank2009@gmail.com
+<h1 align="center">Hi 👋, I'm Utpal</h1>
+<h3 align="center">🚀 Aspiring Developer | IT Student | Future Tech Founder</h3>
 
-<!---
-Utpal-2009/Utpal-2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+- 🎓 Diploma IT Engineering Student
+- 💻 Learning: Web Development + Python + App Development
+- 🚀 Goal: Build my own IT company
+- 🧠 Currently working on: AI Chatbot + Web Projects
+- ⚡ Fun fact: I learn tech while managing business too 😎
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: HTML, CSS, JavaScript, Python
+- ⚙️ Tools: Git, GitHub, Android Studio, Firebase
+- 🌐 Web: Beginner Full Stack Developer
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utpal-2009&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Utpal-2009&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🛒 Vegetable Shop Website (PWA)
+- 🤖 AI Telegram Bot (In Progress)
+- 🧾 OCR Bill Scanner App
+
+---
+
+### 🤝 Connect with Me
+- 📧 Email: u.a.tank2009@gmail.com
+- 🌐 GitHub: https://github.com/Utpal-2009
+
+---
+
+⭐ *"Consistency > Motivation"*
